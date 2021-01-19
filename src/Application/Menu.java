@@ -39,7 +39,7 @@ public class Menu {
 		String selection = "";
 		do {
 			System.out.println("\n**********Main-Menu**********");
-			System.out.println("-----------------------------");
+			System.out.println("----------------------------");
 			printMainMenu();
 			
 			selection = input.nextLine();
