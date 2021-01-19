@@ -5,6 +5,8 @@ public class Volunteers {
 	private int org_id;
 	private String full_name;
 	private String phone;
+	
+	
 	public int getVol_id() {
 		return vol_id;
 	}
@@ -40,7 +42,6 @@ public class Volunteers {
 	public void setPhone(String phone) {
 		this.phone = phone;
 	}
-	
 	
 	
 
